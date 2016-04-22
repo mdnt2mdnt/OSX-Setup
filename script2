@@ -165,7 +165,6 @@ brew install xcv
 brew install autojump
 brew cleanup
 
-echo "Brew cask installs"
 brew cask install google-chrome
 brew cask install lastpass
 brew cask install firefox
